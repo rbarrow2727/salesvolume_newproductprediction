@@ -1,5 +1,5 @@
 # salesvolume_newproductprediction
-Regression Model Predicting Sales Volume of New Products at Retail Store 
+Regression Model Predicting Sales Volume of New Products from Retail Store 
 
 Evaluate sales volume projections for four product type categories: PC, Laptop, Netbook, Smartphone
   - Attributes included in data set: positive customer reviews, negative customer reviews, profit margin, price, volume
